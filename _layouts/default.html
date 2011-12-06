@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} &ndash; Gabriel Boyer{% else %}Gabriel Boyer{% endif %}</title>
+    <meta name="description" content="Home page for Gabriel Boyer, with links to various parts of my identity on the Web.">
+    <link rel="me" type="text/html" href="http://www.google.com/profiles/gboyer">
+    <link rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles">
+    <link rel="openid2.local_id" href="http://www.google.com/profiles/gboyer">
+    <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="topbar">
+      <div class="topbar-inner">
+        <div class="container">
+          <h3><a href="/">Gabriel Boyer</a></h3>
+          <ul class="nav">
+            <li><a href="mailto:me@gabrielboyer.com" rel="me">Email</a></li>
+            <li><a href="http://www.google.com/profiles/gboyer" rel="me">Google Profile</a></li>
+            <li><a href="http://twitter.com/gboyer" title="@gboyer on Twitter" rel="me">Twitter</a></li>
+            <li><a href="http://github.com/gabe" title="gabe on GitHub" rel="me">GitHub</a></li>
+            <li><a href="http://www.linkedin.com/in/gabrielboyer" rel="me">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">{{ content }}</div>
+  </body>
+</html>
