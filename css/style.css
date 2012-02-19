@@ -124,6 +124,14 @@ footer p {
   body {
     padding-top: 0;
   }
+
+  .resume .technical hr {
+    display: none;
+  }
+
+  .resume .technical p {
+    line-height: 18px;
+  }
 }
 
 @media (min-width: 480px) and (max-width: 768px) {
