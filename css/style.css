@@ -71,6 +71,9 @@ footer p {
 
 .resume h5 {
   font-size: 18px;
+}
+
+.resume h5, .resume .experience .term p {
   line-height: 27px;
 }
 
