@@ -99,6 +99,10 @@ footer p {
   margin: 9px 0;
 }
 
+.resume .experience ul {
+  margin-left: 0;
+}
+
 @media (max-width: 480px) {
   body {
     padding-top: 70px;
