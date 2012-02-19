@@ -78,8 +78,12 @@ footer p {
 }
 
 .resume .download {
-  margin-bottom: 9px;
-  margin-top: 18px;
+  height: 36px;
+  margin: 9px 0;
+}
+
+.resume .download .btn {
+  margin-top: 10px;
 }
 
 .resume .contact p {
