@@ -141,6 +141,10 @@ footer p {
   .hero h1 {
     font-size: 72px;
   }
+
+  .resume .download {
+    margin-top: 0;
+  }
 }
 
 @media (max-width: 980px) {
@@ -152,7 +156,7 @@ footer p {
   }
 
   .resume h1 {
-    font-size: 45px;
+    font-size: 36px;
   }
 
   .resume h2 {
