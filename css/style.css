@@ -171,4 +171,8 @@ footer p {
   .resume h3, .resume h4 {
     font-size: 18px;
   }
+
+  .resume h5 {
+    font-size: 13px;
+  }`
 }
