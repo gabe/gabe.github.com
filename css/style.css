@@ -74,7 +74,7 @@ footer p {
 }
 
 .resume h5, .resume .experience .term p {
-  line-height: 27px;
+  line-height: 36px;
 }
 
 .resume .download {
@@ -97,6 +97,10 @@ footer p {
 
 .resume .technical hr {
   margin: 9px 0;
+}
+
+.resume .experience .term p {
+  font-weight: bold;
 }
 
 .resume .experience ul {
@@ -131,10 +135,6 @@ footer p {
 
   .resume .technical hr {
     display: none;
-  }
-
-  .resume .technical p {
-    line-height: 18px;
   }
 }
 
@@ -186,5 +186,13 @@ footer p {
 
   .resume h5 {
     font-size: 13px;
-  }`
+  }
+
+  .resume .technical p {
+    line-height: 18px;
+  }
+
+  .resume h5, .resume .experience .term p {
+    line-height: 18px;
+  }
 }
