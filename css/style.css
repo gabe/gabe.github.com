@@ -77,7 +77,8 @@ footer p {
   line-height: 27px;
 }
 
-.resume .contact p:first-child {
+.resume .download {
+  margin-bottom: 9px;
   margin-top: 18px;
 }
 
