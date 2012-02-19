@@ -4,6 +4,19 @@ body {
   position: relative;
 }
 
+.navbar-fixed-top .brand {
+  color: black;
+  float: right;
+  font-weight: bold;
+  margin-left: 20px;
+  padding-left: 0;
+  padding-right: 0;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .1), 0 0 30px rgba(255, 255, 255, .125);
+  -webkit-transition: all .2s linear;
+  -moz-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
 footer {
   border-top: 1px solid #e5e5e5;
   margin-top: 54px;
@@ -36,6 +49,45 @@ footer p {
   margin-bottom: 18px;
   margin-left: 5%;
   margin-right: 5%;
+}
+
+.resume h1 {
+  font-size: 54px;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 9px;
+}
+
+.resume h2 {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 36px;
+}
+
+.resume h3, .resume h4 {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.resume h5 {
+  font-size: 18px;
+}
+
+.resume .contact p:first-child {
+  margin-top: 18px;
+}
+
+.resume .contact p:last-child {
+  margin-bottom: 0;
+}
+
+.resume .technical p {
+  line-height: 36px;
+  margin-bottom: 0;
+}
+
+.resume .technical hr {
+  margin: 9px 0;
 }
 
 @media (max-width: 480px) {
@@ -83,5 +135,27 @@ footer p {
 
   .hero h1 {
     font-size: 72px;
+  }
+}
+
+@media (max-width: 980px) {
+  .navbar-fixed-top .brand {
+    float: left;
+    margin-left: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .resume h1 {
+    font-size: 45px;
+  }
+
+  .resume h2 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  .resume h3, .resume h4 {
+    font-size: 18px;
   }
 }
