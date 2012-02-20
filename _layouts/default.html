@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{% if page.title %}{{ page.title }} &ndash; Gabriel Boyer{% else %}Gabriel Boyer{% endif %}</title>
     <meta name="description" content="Home page for Gabriel Boyer, with links to various parts of my identity on the Web.">
     <meta name="author" content="Gabriel Boyer">
@@ -37,7 +36,7 @@
                 <a href="/resume.html">R&eacute;sum&eacute;</a>
               </li>
               <li class="divider-vertical"></li>
-              <li><a href="mailto:{{ site.email }}" rel="me">Email</a></li>
+              <li><a href="mailto:{{ site.email }}" title="{{ site.email }}" rel="me">Email</a></li>
               <li><a href="http://twitter.com/gboyer" title="@gboyer on Twitter" rel="me">Twitter</a></li>
               <li><a href="http://github.com/gabe" title="gabe on GitHub" rel="me">GitHub</a></li>
               <li><a href="http://www.google.com/profiles/gboyer" rel="me">Google+</a></li>
@@ -48,7 +47,9 @@
       </div>
     </div>
     <div class="container">
-      <div id="content">{{ content }}</div>
+      <div id="content">
+        {{ content }}
+      </div>
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>&copy; 2012 Gabriel Boyer</p>
