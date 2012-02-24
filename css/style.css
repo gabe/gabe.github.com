@@ -208,41 +208,4 @@ footer p {
   footer {
     display: none;
   }
-
-  .resume .download {
-    display: none;
-  }
-
-  .resume .row {
-    margin-left: -0.25in;
-  }
-
-  .resume [class*="span"] {
-    float: left;
-    margin-left: 0.25in;
-  }
-
-  .resume .span3 {
-    width: 1.5in;
-  }
-
-  .resume .span6 {
-    width: 3.25in;
-  }
-
-  .resume .span9 {
-    width: 5in;
-  }
-
-  .resume .span12 {
-    width: 6in;
-  }
-
-  .resume .technical p {
-    line-height: 36px;
-  }
-
-  .resume .technical hr {
-    display: block;
-  }`
 }
