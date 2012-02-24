@@ -55,7 +55,6 @@ footer p {
   font-size: 54px;
   letter-spacing: -1px;
   line-height: 1;
-  margin-bottom: 9px;
 }
 
 .resume h2 {
@@ -158,6 +157,10 @@ footer p {
     font-size: 72px;
   }
 
+  .resume h1 {
+    margin-top: 18px;
+  }
+
   .resume .download {
     margin-top: 0;
   }
@@ -195,4 +198,51 @@ footer p {
   .resume h5, .resume .experience .term p {
     line-height: 18px;
   }
+}
+
+@media print {
+  .navbar-fixed-top {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .resume .download {
+    display: none;
+  }
+
+  .resume .row {
+    margin-left: -0.25in;
+  }
+
+  .resume [class*="span"] {
+    float: left;
+    margin-left: 0.25in;
+  }
+
+  .resume .span3 {
+    width: 1.5in;
+  }
+
+  .resume .span6 {
+    width: 3.25in;
+  }
+
+  .resume .span9 {
+    width: 5in;
+  }
+
+  .resume .span12 {
+    width: 6in;
+  }
+
+  .resume .technical p {
+    line-height: 36px;
+  }
+
+  .resume .technical hr {
+    display: block;
+  }`
 }
