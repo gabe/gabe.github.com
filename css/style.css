@@ -51,6 +51,8 @@ footer p {
   margin-right: 5%;
 }
 
+/** Resume **/
+
 .resume h1 {
   font-size: 54px;
   letter-spacing: -1px;
@@ -106,6 +108,8 @@ footer p {
 .resume .experience ul {
   margin-left: 0;
 }
+
+/** /Resume **/
 
 @media (max-width: 480px) {
   body {

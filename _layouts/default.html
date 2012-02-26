@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} &ndash; Gabriel Boyer{% else %}Gabriel Boyer{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}Gabriel Boyer</title>
     <meta name="description" content="Home page for Gabriel Boyer, with links to various parts of my identity on the Web.">
     <meta name="author" content="Gabriel Boyer">
     <meta name="viewport" content="width=device-width">
@@ -51,7 +51,9 @@
         {{ content }}
       </div>
       <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p class="pull-right">
+          <a href="#">Back to top</a>
+        </p>
         <p>
           <a href="https://twitter.com/gboyer" class="twitter-follow-button" data-show-count="true">Follow @gboyer</a>
         </p>
