@@ -1,6 +1,6 @@
 (function ($) {
   $(function () {
-    $('.navbar-fixed-top .nav > li > a').tooltip({
+    $('.navbar-fixed-top a').tooltip({
       placement: 'bottom'
     });
   });
