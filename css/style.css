@@ -97,8 +97,9 @@ footer p {
 }
 
 .resume .contact {
-  font-size: 18px;
-  margin-top: 20px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
 }
 
 .resume .contact p {
@@ -141,8 +142,6 @@ footer p {
   .hero p {
     font-size: 18px;
     line-height: 20px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
@@ -202,7 +201,8 @@ footer p {
 
   .resume .contact {
     font-size: 14px;
-    margin-top: 0;
+    font-weight: normal;
+    line-height: 20px;
   }
 }
 
