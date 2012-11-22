@@ -10,6 +10,7 @@ title: Wish List
 - [Velodyne vPulse In-Ear Headphones (black)][1]
 - [Baratza Encore coffee grinder][2]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][4]
+- Rubber floor mats for 2006 Mazda 3 Sport
 - [Apple Magic Trackpad][9]
 - [Mortar & Pestle][3]
 - [Global G-2 20cm Cook's Knife][5]
