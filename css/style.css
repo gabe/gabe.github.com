@@ -10,7 +10,7 @@ body {
 }
 
 .navbar-fixed-top .navbar-brand {
-  font-family: "PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -35,31 +35,43 @@ footer {
 }
 
 .hero h1 {
-  font-family: "PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 100px;
-  font-weight: 700;
-  line-height: 1;
+  font-weight: 300;
   margin-bottom: 20px;
 }
 
-.hero p.lead {
-  font-size: 30px;
+.hero .lead {
   font-weight: 300;
-  line-height: 40px;
   margin-bottom: 40px;
+}
+
+@media (min-width: 768px){
+  .hero h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+}
+
+@media (min-width: 992px){
+  .hero h1 {
+    font-size: 100px;
+    line-height: 1;
+  }
+
+  .hero .lead {
+    font-size: 30px;
+    line-height: 40px;
+  }
 }
 
 /* Resume
 ------------------------------------------------------------*/
 .resume h1 {
-  font-family: "PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 60px;
-  font-weight: 700;
+  font-weight: 300;
   letter-spacing: -1px;
   line-height: 1;
   margin-bottom: 0;
   margin-top: 0;
-  text-transform: uppercase;
 }
 
 .resume h2,
@@ -71,7 +83,7 @@ footer {
 }
 
 .resume h2 {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 300;
   line-height: 40px;
   margin-bottom: 0;
@@ -130,93 +142,70 @@ footer {
   margin-bottom: 0;
 }
 
-/* Responsive Styles
-------------------------------------------------------------*/
-@media screen and (max-width: 480px) {
-  body {
-    padding-top: 70px;
-  }
-
-  .hero {
-    padding-top: 0;
-  }
-
-  .hero h1 {
-    font-size: 45px;
-  }
-
-  .hero p {
-    font-size: 18px;
-    line-height: 20px;
+@media (min-width: 992px) {
+  .resume header .btn-group {
+    float: right;
   }
 }
 
-@media screen and (max-width: 767px) {
-  body {
-    padding-top: 0;
+@media (min-width: 768px) and (max-width: 991px) {
+  .resume header .btn-group {
+    border-collapse: separate;
+    display: table;
+    margin-top: 16px;
+    table-layout: fixed;
+    width: 100%;
   }
 
-  .resume .technical hr {
-    display: none;
-  }
-
-  .resume h2,
-  .resume h3,
-  .resume h4,
-  .resume h5,
-  .resume .experience .term p {
-    font-weight: bold;
+  .resume header .btn-group > .btn {
+    display: table-cell;
+    float: none;
+    width: 1%;
   }
 }
 
-@media screen and (min-width: 480px) and (max-width: 767px) {
-  .hero h1 {
-    font-size: 54px;
+@media (max-width: 767px) {
+  .resume header .btn-group {
+    display: block;
+    margin-top: 16px;
+  }
+
+  .resume header .btn-group > .btn {
+    display: block;
+    float: none;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .resume header .btn-group > .btn:first-child:not(:last-child) {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 4px;
+  }
+
+  .resume header .btn-group > .btn + .btn {
+    margin-top: -1px;
+    margin-left: 0;
+  }
+
+  .resume header .btn-group > .btn:not(:first-child):not(:last-child) {
+    border-radius: 0;
+  }
+
+  .resume header .btn-group > .btn:last-child:not(:first-child) {
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 979px) {
-  body {
-    padding-top: 0;
-  }
-
-  .hero h1 {
-    font-size: 72px;
-  }
-}
-
-@media screen and (max-width: 979px) {
-  .resume h1 {
-    font-size: 40px;
-  }
-
-  .resume h2 {
-    font-size: 20px;
-    line-height: 30px;
-  }
-
-  .resume h3,
-  .resume h4 {
-    font-size: 18px;
-  }
-
-  .resume h5 {
-    font-size: 14px;
-  }
-
+@media (max-width: 991px) {
   .resume .technical p {
     line-height: 20px;
   }
 
-  .resume h5,
-  .resume .experience .term p {
-    line-height: 20px;
-  }
-
-  .resume .contact {
-    font-size: 14px;
-    font-weight: normal;
-    line-height: 20px;
+  .resume .technical hr {
+    display: none;
   }
 }
 
@@ -235,13 +224,11 @@ footer {
   }
 
   body {
-    /*font-family: 'PT Serif', serif;*/
     padding: 0;
   }
 
-  .navbar-fixed-top,
-  footer,
-  .resume .download {
+  nav,
+  footer {
     display: none;
   }
 
