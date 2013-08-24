@@ -22,6 +22,20 @@ p {
   hyphens: auto;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: 300;
+  letter-spacing: -1px;
+}
+
+h1 small,
+h2 small,
+h3 small {
+  font-weight: 300;
+  letter-spacing: -1px;
+}
+
 footer {
   color: #777;
   padding: 60px 0;
@@ -197,6 +211,23 @@ footer {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
+
+  .resume h1 {
+    font-size: 48px;
+  }
+
+  .resume h4 {
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+
+  .resume h5 {
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -223,7 +254,8 @@ footer {
     margin: 1in 0.75in;
   }
 
-  body {
+  body,
+  .page-content {
     padding: 0;
   }
 
