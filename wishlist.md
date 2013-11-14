@@ -8,8 +8,9 @@ title: Wish List
 </div>
 
 - [Baratza Encore coffee grinder][1]
-- [_The Visual Display of Quantitative Information_ (Edward Tufte)][2]
-- [Jack Spade Gift Card][3] (I need a new computer bag)
+- [All-Clad Stainless Steel 12-inch Skillet][2]
+- [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
+- [Jack Spade Gift Card][4] (I need a new computer bag)
 
 ## Whisky
 
@@ -25,5 +26,6 @@ Any quality whisky will do, really. A few examples:
 - Buffalo Trace
 
 [1]: http://www.amazon.com/Improved-Encore-Coffee-Grinder-Baratza/dp/B007HI12H8/
-[2]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
-[3]: https://www.jackspade.com/gift-cards/
+[2]: http://www.amazon.com/All-Clad-Stainless-Steel-12-Inch/dp/B004T6MSIS/
+[3]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
+[4]: https://www.jackspade.com/gift-cards/
