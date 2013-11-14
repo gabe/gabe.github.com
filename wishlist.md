@@ -8,9 +8,9 @@ title: Wish List
 </div>
 
 - [Baratza Encore coffee grinder][1]
-- [All-Clad Stainless Steel 12-inch Skillet][2]
+- [All-Clad 12" Stainless Steel Fry Pan][2]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
-- [Jack Spade Gift Card][4] (I need a new computer bag)
+- [Jack Spade Gift Card][4]
 
 ## Whisky
 
