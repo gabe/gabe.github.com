@@ -13,6 +13,8 @@ title: Wish List
 
 ## Whisky
 
+Any quality whisky will do, really. A few examples:
+
 - Lagavulin
 - Talisker
 - Macallan
