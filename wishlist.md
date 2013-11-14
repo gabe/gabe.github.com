@@ -11,6 +11,7 @@ title: Wish List
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 - [Jack Spade Gift Card][4]
+- [Asus RT-AC68U Router][5]
 
 ## Whisky
 
@@ -29,3 +30,4 @@ Any quality whisky will do, really. A few examples:
 [2]: http://www.amazon.com/All-Clad-Stainless-Steel-12-Inch/dp/B004T6MSIS/
 [3]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
 [4]: https://www.jackspade.com/gift-cards/
+[5]: http://ncix.ca/products/?sku=90144
