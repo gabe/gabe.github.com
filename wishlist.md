@@ -13,7 +13,9 @@ title: Wish List
 - [Jack Spade Gift Card][4]
 - [Asus RT-AC68U Router][5]
 
-## Whisky
+<div class="page-header">
+  <h2>Whisky</h2>
+</div>
 
 Any quality whisky will do, really. A few examples:
 
