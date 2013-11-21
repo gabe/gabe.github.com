@@ -12,6 +12,7 @@ title: Wish List
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 - [Jack Spade Gift Card][4]
 - [Asus RT-AC68U Router][5]
+- [Topo Designs Mountain Briefcase][6]
 
 <div class="page-header">
   <h2>Whisky</h2>
@@ -33,3 +34,4 @@ Any quality whisky will do, really. A few examples:
 [3]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
 [4]: https://www.jackspade.com/gift-cards/
 [5]: http://ncix.ca/products/?sku=90144
+[6]: http://topodesigns.com/collection/mountain-briefcase/
