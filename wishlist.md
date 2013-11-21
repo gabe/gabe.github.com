@@ -12,7 +12,7 @@ title: Wish List
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 - [Jack Spade Gift Card][4]
 - [Asus RT-AC68U Router][5]
-- [Topo Designs Mountain Briefcase][6]
+- [Topo Designs Mountain Briefcase (Black)][6]
 
 <div class="page-header">
   <h2>Whisky</h2>
