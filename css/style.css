@@ -241,21 +241,36 @@ footer {
 }
 
 @media print {
-  /*
-    Custom Bootstrap
-    ----------------
-    @gridColumnWidth: 0.531in
-    @gridGutterWidth: 0.177in
-    @baseFontSize: 11pt
-    @baseLineHeight: 16pt
-  */
   @page {
     size: 8.5in 11in;
     margin: 1in 0.75in;
   }
 
+  body {
+    background: white;
+    color: black;
+  }
+
   body,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "PT Serif", serif;
+  }
+
+  body,
+  .btn {
+    font-size: 9pt;
+    line-height: 14pt;
+  }
+
+  body,
+  .container,
   .page-content {
+    border: none;
     padding: 0;
   }
 
@@ -264,56 +279,73 @@ footer {
     display: none;
   }
 
-  .resume h2,
-  .resume h3,
-  .resume h4 {
-    font-size: 16pt;
-    line-height: 32pt;
+  .resume .row {
+    margin-left: 0;
+    margin-right: 0;
   }
 
-  .resume h2,
-  .resume h3,
-  .resume h4,
-  .resume h5 {
-    font-weight: normal;
+  .resume [class^="col-"] {
+    float: left;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .resume .col-md-4 {
+    width: 33.33333333333333%;
+  }
+
+  .resume .col-md-6 {
+    width: 50%;
+  }
+
+  .resume .col-sm-3 {
+    width: 25%;
+  }
+
+  .resume .col-sm-9 {
+    width: 75%;
   }
 
   .resume h1 {
-    font-size: 32pt;
+    font-size: 28pt;
+  }
+
+  .resume h2,
+  .resume h3,
+  .resume h4 {
+    font-size: 14pt;
+    line-height: 28pt;
   }
 
   .resume section {
     border-top: 1px solid black;
-    margin-top: 16pt;
-    padding-top: 16pt;
+    margin-top: 14pt;
+    padding-top: 14pt;
   }
 
   .resume hr {
     border-top-color: black;
     border-bottom: 0;
-    margin: 8pt 0;
+    margin: 7pt 0;
   }
 
-  .resume .contact p {
-    font-size: 13.75pt;
-    font-weight: normal;
-    line-height: 16pt;
+  .resume .technical hr {
+    display: block;
   }
 
   .resume .technical p {
-    line-height: 32pt;
+    line-height: 28pt;
     margin-bottom: 0;
   }
 
   .resume h5,
   .resume .experience .term p {
-    font-size: 13.75pt;
-    font-weight: normal;
-    line-height: 16pt;
+    font-size: 11pt;
+    line-height: 14pt;
   }
   
   .resume .experience ul {
-    margin-bottom: 16pt;
+    margin-bottom: 14pt;
     margin-left: 0;
   }
 
@@ -321,9 +353,29 @@ footer {
     margin-bottom: 0;
   }
   
-  .resume .contact p,
   .resume .experience .term p {
     margin-bottom: 0;
+  }
+
+  .resume header .btn-group {
+    display: block;
+    float: none;
+    margin: 0;
+    margin-left: 50%;
+    padding: 0;
+  }
+
+  .resume header .btn-group > .btn {
+    border: none;
+    display: block;
+    float: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+
+  .resume header .btn-group > .btn > i {
+    display: none;
   }
 
   a[href]:after {
