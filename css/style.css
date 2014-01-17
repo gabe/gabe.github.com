@@ -259,6 +259,8 @@ footer {
   h5,
   h6 {
     font-family: "PT Serif", serif;
+    font-weight: 400;
+    letter-spacing: 0;
   }
 
   body,
