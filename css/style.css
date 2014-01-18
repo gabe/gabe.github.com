@@ -266,7 +266,7 @@ footer {
   body,
   .btn {
     font-size: 9pt;
-    line-height: 14pt;
+    line-height: 13pt;
   }
 
   body,
@@ -309,45 +309,44 @@ footer {
   }
 
   .resume h1 {
-    font-size: 28pt;
+    font-size: 26pt;
   }
 
   .resume h2,
   .resume h3,
   .resume h4 {
-    font-size: 14pt;
-    line-height: 28pt;
+    font-size: 13pt;
+    line-height: 26pt;
   }
 
   .resume section {
-    border-top: 1px solid black;
-    margin-top: 14pt;
-    padding-top: 14pt;
+    margin-top: 13pt;
+    padding-top: 13pt;
   }
 
-  .resume hr {
-    border-top-color: black;
-    border-bottom: 0;
-    margin: 7pt 0;
+  .resume section,
+  .resume .technical hr {
+    border-top: 1px solid black;
   }
 
   .resume .technical hr {
     display: block;
+    margin: 13pt 0;
   }
 
   .resume .technical p {
-    line-height: 28pt;
+    line-height: 26pt;
     margin-bottom: 0;
   }
 
   .resume h5,
   .resume .experience .term p {
     font-size: 11pt;
-    line-height: 14pt;
+    line-height: 13pt;
   }
   
   .resume .experience ul {
-    margin-bottom: 14pt;
+    margin-bottom: 13pt;
     margin-left: 0;
   }
 
