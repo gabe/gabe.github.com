@@ -1,2 +1,3 @@
 safe: true
 email: me@gabrielboyer.com
+markdown: kramdown
