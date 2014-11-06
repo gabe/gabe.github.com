@@ -22,6 +22,7 @@ title: Wish List
 - Laphroaig
 - Ardbeg
 - Rittenhouse Rye
+- Booker's
 - Elijah Craig
 - Buffalo Trace
 
