@@ -13,7 +13,7 @@ title: Wish List
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 
 <div class="page-header">
-  <h2>Whisky</h2>
+  <h2>Whisky <small>Any nice whisky is great, really.</small></h2>
 </div>
 
 - Lagavulin
