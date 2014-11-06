@@ -9,6 +9,11 @@ body {
   padding: 110px 0 59px 0;
 }
 
+.page-content ul,
+.page-content ol {
+  padding-left: 0;
+}
+
 .navbar-fixed-top {
   background-color: rgba(0, 0, 0, 0.8);
 }
