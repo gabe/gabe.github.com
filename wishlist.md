@@ -11,7 +11,7 @@ title: Wish List
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [Lodge 6-Quart Dutch Oven][1]
 - [Searzall Blowtorch Attachment][5]
-- FoodSaver Vacuum Sealer
+- [FoodSaver V4400 Vacuum Sealer][6]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 
 <div class="page-header">
@@ -33,3 +33,4 @@ title: Wish List
 [3]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
 [4]: http://www.amazon.ca/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/
 [5]: http://www.amazon.com/Booker-Dax-Searzall-Blowtorch-Attachment/dp/B00L2P0KNO
+[6]: http://www.amazon.ca/FoodSaver-Fridge-Freezer-Preservation-System/dp/B00I5B1C8A/
