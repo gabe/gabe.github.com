@@ -293,6 +293,11 @@ footer {
   footer {
     display: none;
   }
+  
+  .page-content {
+    border: none;
+    padding: 0;
+  }
 
   .resume .row {
     margin-left: 0;
