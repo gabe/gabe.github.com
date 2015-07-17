@@ -294,9 +294,8 @@ footer {
     display: none;
   }
   
-  .page-content {
-    border: none;
-    padding: 0;
+  .resume {
+    margin-top: 0;
   }
 
   .resume .row {
