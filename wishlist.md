@@ -7,7 +7,7 @@ title: Wish List
   <h1>Wish List <small>2014</small></h1>
 </div>
 
-- [The Food Lab: Better Home Cooking Through Science][7]
+- [The Food Lab: Better Home Cooking Through Science (J. Kenji Lopez-Alt)][7]
 - [Bonavita BV382510V 1-Liter Variable Temperature Digital Electric Gooseneck Kettle][4]
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [Lodge 6-Quart Dutch Oven][1]
