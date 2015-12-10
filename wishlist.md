@@ -9,11 +9,11 @@ title: Wish List
 
 - [_The Food Lab: Better Home Cooking Through Science_ (J. Kenji Lopez-Alt)][7]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
+- FoodSaver Vacuum Sealer
 - [Bonavita BV382510V 1-Liter Variable Temperature Digital Electric Gooseneck Kettle][4]
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [Lodge 6-Quart Dutch Oven][1]
 - [Searzall Blowtorch Attachment][5]
-- FoodSaver Vacuum Sealer
 
 <div class="page-header">
   <h2>Whisky</h2>
