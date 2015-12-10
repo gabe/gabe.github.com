@@ -13,7 +13,7 @@ title: Wish List
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [Lodge 6-Quart Dutch Oven][1]
 - [Searzall Blowtorch Attachment][5]
-- [FoodSaver V4400 Vacuum Sealer][6]
+- FoodSaver Vacuum Sealer
 
 <div class="page-header">
   <h2>Whisky</h2>
