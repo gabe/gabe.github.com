@@ -27,7 +27,9 @@ title: Wish List
 - Rittenhouse Rye
 - Booker's
 - Elijah Craig
+- Eagle Rare
 - Buffalo Trace
+- Four Roses
 
 [1]: http://www.amazon.ca/Lodge-EC6D43-Color-6-Quart-Island/dp/B000N501BK/
 [2]: http://www.amazon.ca/All-Clad-Tri-Ply-Stainless-Steel-Frying/dp/B00FUF5K8W/
