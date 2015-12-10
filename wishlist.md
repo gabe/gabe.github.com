@@ -24,7 +24,6 @@ title: Wish List
 - Laphroaig
 - Ardbeg
 - Old Pulteney
-- Rittenhouse Rye
 - Booker's
 - Elijah Craig
 - Eagle Rare
