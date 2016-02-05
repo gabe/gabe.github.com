@@ -4,7 +4,7 @@ title: Wish List
 ---
 
 <div class="page-header">
-  <h1>Wish List <small>2015</small></h1>
+  <h1>Wish List <small>2016</small></h1>
 </div>
 
 - [_The Food Lab: Better Home Cooking Through Science_ (J. Kenji Lopez-Alt)][7]
