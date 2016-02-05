@@ -10,7 +10,7 @@ title: Wish List
 - [_The Food Lab: Better Home Cooking Through Science_ (J. Kenji Lopez-Alt)][7]
 - [_The Visual Display of Quantitative Information_ (Edward Tufte)][3]
 - [_Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza_ (Ken Forkish)][8]
-- FoodSaver Vacuum Sealer
+- [Oliso PRO Smart Vacuum Sealer][6]
 - [Bonavita BV382510V 1-Liter Variable Temperature Digital Electric Gooseneck Kettle][4]
 - [All-Clad 12" Stainless Steel Fry Pan][2]
 - [Lodge 6-Quart Dutch Oven][1]
@@ -36,6 +36,6 @@ title: Wish List
 [3]: http://www.amazon.ca/Visual-Display-Quantitative-Information-2nd/dp/0961392142/
 [4]: http://www.amazon.ca/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/
 [5]: http://www.amazon.com/Booker-Dax-Searzall-Blowtorch-Attachment/dp/B00L2P0KNO
-[6]: http://www.amazon.ca/FoodSaver-Fridge-Freezer-Preservation-System/dp/B00I5B1C8A/
+[6]: http://www.amazon.com/Vacuum-Sealer-Food-Preservation-Sous/dp/B014EJQ9UM/
 [7]: http://www.amazon.ca/Food-Lab-Cooking-Through-Science/dp/0393081087/
 [8]: http://www.amazon.ca/Flour-Water-Salt-Yeast-Fundamentals/dp/160774273X/
