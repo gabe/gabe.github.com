@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gabrielboyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gabrielboyer.com
+  * I am gabrielboyer (https://keybase.io/gabrielboyer) on keybase.
+  * I have a public key with fingerprint D00E C606 AB86 4BBA EE3B  F8F6 1BF4 C523 99C7 6BA5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010106a0edfd35163ab5532eb601df4080b7981185d41b74032c914133a9f2afff4b0a",
+      "fingerprint": "d00ec606ab864bbaee3bf8f61bf4c52399c76ba5",
+      "host": "keybase.io",
+      "key_id": "1bf4c52399c76ba5",
+      "kid": "010106a0edfd35163ab5532eb601df4080b7981185d41b74032c914133a9f2afff4b0a",
+      "uid": "4638f09f530f06680f6d21e247847419",
+      "username": "gabrielboyer"
+    },
+    "service": {
+      "hostname": "gabrielboyer.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1593099493,
+  "expire_in": 157680000,
+  "prev": "e7ecf8ad819ba80d4b414b28ae6fcec1cbdcabc05b001883b21c451879c809a2",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJbSFRBGMd3MzUvXSAwIik5RISKzZwz57YWIfWQPZiFQXZxmzlnRk/t
+7tnOHjdFLBMqe6igC4FR0eqDZkFl9JBRWkuFZpBUQihKF6KCkLKHLlhzpN56bOZh
+mPn+32/+38eXnJ3iy/Rvz161A6VVpvkH+s7X+qomk28bBGKb9UKgQdhNpw8aMmnM
+De62TCEgAMi3ggE1mSnJUJEwkWVJpEQB0GQIaICougahJpsIEhUBSTR0iKAkYZ2J
+mDGGCMBCocCsSDV1oo4VcTnWBIAaCgcTTUGEYEolwjSmQMKQIYuSrhuqQrDME2vs
+mJfBzREco0WWzd/4JTht7x/6/+y7dhqHFEljQGeyBBhQFA0wxRQhFZGqIRVB3RPG
+qBPBYcrV1Zg4Fg0Ru546QmOhwCNxy6Bec71q/qEqMuwwZ0Qd27UNO8SjNa4bDXjJ
+bn3UU++lJPiHEyRWxOTt5Alx6sQsOyIEIFcaruWBoaxLQNeRLhUKtC5qOTRoeQpZ
+5b758r6hcY6kKjWYhk0N6gRrwEQEQUREDVOFGdSABjENTAwgEwCgpklEhAaSoabq
+hgZ0LApeZXsithAQuU1czZExqzqC3VqHCo33erfP9PkzfWmpM7wx82VmzPs7fGdm
+zvL19/hbzyXGl0k1d5OPth3qXjk6f9GuiRWvbwyUz/2RVFJzlhYUncy4mjM2/Lb1
+6beNfYOddxIpLijINTd3p1+41f/sYd1w3vBIRfMv/+dQ3+jiJWurakJ5B14XL3xf
+ulVompjbsSCwfN3t/OeTX2j5YPBnuLLj6y7rOh4Sj609GE7pScY/JboQGG1LL1OK
++38muus3ne3d//395cdrKjbc/9BRmjXif9VYljXVr9/Mad33afX6koKpBanR8ccX
+l83Jzu96Yp96U9q35UFb+2mXjh1JnzyReHD46IdcdWLnlZdrWFXdu2tNl1rAwK32
+qeMvmj62JJvDJSMZeUPbOmE8UCaW/wZd4USb
+=H4sh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gabrielboyer
+
+==================================================================
