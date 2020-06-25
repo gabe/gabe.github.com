@@ -10,6 +10,19 @@
     <link rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles">
     <link rel="openid2.local_id" href="http://www.google.com/profiles/gboyer">
     <link rel="stylesheet" href="/tufte.min.css">
+    <style type="text/css" media="print">
+      html { font-size: 12px; }
+      body { margin: 0; max-width: none; padding: 0; width: 100%; }
+      article { padding: 0; }
+      #intro a:after { content: " (" attr(href) ")"; }
+      @media (max-width: 760px) {
+        section > footer,
+        section > p,
+        section > table { width: 65%; }
+        .marginnote,
+        .sidenote { display: block; margin-right: -50%; width: 40%; }
+      }
+    </style>
   </head>
   <body>
     {{ content }}
