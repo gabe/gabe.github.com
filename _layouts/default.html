@@ -14,7 +14,7 @@
       html { font-size: 12px; }
       body { margin: 0; max-width: none; padding: 0; width: 100%; }
       article { padding: 0; }
-      #intro a:after { content: " (" attr(href) ")"; }
+      a.print-title:after { content: " (" attr(title) ")"; }
       @media (max-width: 760px) {
         section > footer,
         section > p,
